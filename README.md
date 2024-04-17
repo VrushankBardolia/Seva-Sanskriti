@@ -2,6 +2,9 @@
 
 SevaSanskriti is a Flutter application that is a comprehensive platform for Non-Governmental Organizations (NGOs) to connect with volunteers, donors, and individuals interested in supporting various causes. The app facilitates seamless communication, donation management, event organization, and volunteer coordination for NGOs.
 
+
+> ⚠️ This Flutter Application is made in collaboration with [Fenansi Indorwala](https://github.com/FenansiIndorwala)
+> 
 ---
 ## Features
 - **User Authentication**: Secure login and registration for NGOs, volunteers, and users.
@@ -50,3 +53,4 @@ We welcome contributions! Feel free to open an issue, submit a pull request, or 
 4. Commit your changes: `git commit -m 'Add new feature'`
 5. Push to the branch: `git push origin feature/new-feature`
 6. Submit a pull request.
+
